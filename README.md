@@ -1,25 +1,32 @@
-Global nutrition and hunger analysis
+# Analyse mondiale de la nutrition et de la faim
 
-As a data analyst working for a non-profit global organization, I was responsible for
-conducting a large-scale study on nutrition and hunger worldwide. The project aimed 
-to understand global disparities in food availability and identify opportunities for 
-a more equitable distribution of resources. 
+## Objectif affiché
 
-Dataset used : 
-- Food availability : quantities of food available and food management per country
-- Population data : evolution of population through the years
-- Starvation rates : percentage of undernourished or food-insecure populations
+Ce projet vise à :
+- illustrer les écarts de disponibilité alimentaire entre régions,  
+- mettre en lumière les pays ou groupes de population les plus vulnérables,  
+- et proposer des pistes d’action quantifiées pour une politique de distribution alimentaire plus équitable.
 
-Main tasks:
-- Data cleaning and rescaling : ensured dtaa consistency and comparability accross
-  countries and indicators
-- Data consolidation: merged all datasets into a single comprehensive database
-- Data visualization and insights: created various pots and visuals to reveal key global
-  patterns and regional disparities
-- Strategic recommendations: proposed actionable ideas to improve global food distribution
-    and reuce hunger inequalities
+## Données utilisées
 
-Project files: 
-- Notebook: contains all data preprocessing steps, transformations and visual analysis
-- Presentation file: summarizes key findings and recommendations for decision-makers
-  
+- **Disponibilité alimentaire** : quantités de nourriture disponibles et indicateurs de gestion alimentaire par pays.  
+- **Données de population** : évolution de la population par pays au fil du temps.  
+- **Taux de sous‑alimentation** : pourcentage de la population sous‑alimentée ou en insécurité alimentaire selon les pays.
+
+## Tâches principales
+
+- **Nettoyage et mise à l’échelle** : harmonisation des données pour garantir la cohérence et la comparabilité entre pays et indicateurs.  
+- **Consolidation des données** : fusion de tous les jeux de données dans une base unique et cohérente.  
+- **Visualisation et analyse** : création de graphiques et de tableaux de bord pour mettre en évidence les grands schémas mondiaux et les disparités régionales.  
+- **Recommandations stratégiques** : proposition de pistes d’action concrètes pour améliorer la distribution mondiale des ressources alimentaires et réduire les inégalités de faim.
+
+## Fichiers du projet
+
+- **Notebook** : contient l’intégralité du prétraitement, des transformations et de l’analyse visuelle.  
+- **Présentation** : synthèse des résultats principaux et des recommandations adressées aux décideurs.
+
+## Résultats de l'étude
+- Production plus que satisfaisante car répond largement aux besoins de la population mondiale
+- Répartition très inégale entre les pays développés et non-développés
+- Répartition très inégale entre la production destinée à l'alimentation humaine et autres catégories comme la fabrication de produits, pertes et alimentation animale
+
