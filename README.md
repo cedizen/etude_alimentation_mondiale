@@ -1,4 +1,4 @@
-# Analyse mondiale de la nutrition et de la faim
+# Etude sur l'alimentation et la sous-nutrition au niveau mondial
 
 ## Objectif affiché
 
