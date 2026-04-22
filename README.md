@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-blue?logo=python) ![Jupyter](https://img.shields.io/badge/Jupyter-orange?logo=jupyter) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # Etude sur l'alimentation et la sous-nutrition au niveau mondial
 
 ## Objectif affiché
