@@ -27,6 +27,9 @@ Ce projet vise à :
 - **Notebook** : contient l’intégralité du prétraitement, des transformations et de l’analyse visuelle.  
 - **Présentation** : synthèse des résultats principaux et des recommandations adressées aux décideurs.
 
+## Comment faire fonctionner le projet ?
+Importer les fichiers de données (.csv) du dossier data dans le notebook dans le dossier /data
+
 ## Résultats de l'étude
 - Production plus que satisfaisante car répond largement aux besoins de la population mondiale
 - Répartition très inégale entre les pays développés et non-développés
